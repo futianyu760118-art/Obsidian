@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"3e5de71a8732978d","x":843,"y":-1064,"width":400,"height":400,"type":"file","file":"创建链接.md"},
+		{"id":"881f26e11ccfeec0","x":900,"y":-600,"width":250,"height":60,"type":"text","text":"盛友会"}
+	],
+	"edges":[
+		{"id":"55ea3750fa405f8d","fromNode":"881f26e11ccfeec0","fromSide":"top","toNode":"3e5de71a8732978d","toSide":"bottom"}
+	]
+}
