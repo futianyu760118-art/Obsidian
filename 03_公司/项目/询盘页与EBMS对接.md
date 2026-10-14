@@ -1,7 +1,10 @@
 ---
 title: 询盘页与EBMS对接
 date: 2026-10-13
-type: project-note
+type: project
+dimension: company
+status: active
+updated: 2026-10-14
 tags:
   - 元宝/对话
   - 项目/EBMS
@@ -9,7 +12,7 @@ tags:
   - 前端/表单
 aliases:
   - inquiry.html 接入 EBMS
-source: '[[来源/AI制作应用的交互细节关键]]'
+source: '[[90_来源/元宝对话/AI制作应用的交互细节关键]]'
 ---
 
 # 询盘页与 EBMS 对接
@@ -82,6 +85,6 @@ EBMS /api/inquiry
 
 ## 相关
 
-- [[主题/Web高级交互设计]]
-- [[主题/待确认事项]]
-- [[00-元宝对话索引]]
+- [[03_公司/资料/Web高级交互设计]]
+- [[00_收件箱/待确认事项]]
+- [[90_来源/元宝对话/元宝对话索引]]

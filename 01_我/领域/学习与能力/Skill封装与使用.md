@@ -1,7 +1,10 @@
 ---
 title: Skill封装与使用
 date: 2026-10-13
-type: process-note
+type: note
+dimension: self
+status: active
+updated: 2026-10-14
 tags:
   - 元宝/对话
   - Agent/Skill
@@ -9,7 +12,7 @@ tags:
   - 工作流
 aliases:
   - Web 高级交互 Skill
-source: '[[来源/AI制作应用的交互细节关键]]'
+source: '[[90_来源/元宝对话/AI制作应用的交互细节关键]]'
 source_url: 'https://yb.tencent.com/s/UzMq1eJIsdJa'
 ---
 
@@ -87,6 +90,6 @@ web-advanced-interaction/
 
 ## 相关
 
-- [[主题/Web高级交互设计]]
-- [[主题/待确认事项]]
-- [[00-元宝对话索引]]
+- [[03_公司/资料/Web高级交互设计]]
+- [[00_收件箱/待确认事项]]
+- [[90_来源/元宝对话/元宝对话索引]]

@@ -1,7 +1,10 @@
 ---
 title: AI视频学习插件
 date: 2026-10-13
-type: knowledge-note
+type: note
+dimension: self
+status: active
+updated: 2026-10-14
 tags:
   - 元宝/对话
   - AI/视频学习
@@ -9,7 +12,7 @@ tags:
   - 产品构想
 aliases:
   - 沉浸式 AI 视频学习插件
-source: '[[来源/提炼内容]]'
+source: '[[90_来源/元宝对话/提炼内容]]'
 source_url: 'https://channels.weixin.qq.com/finder-preview/pages/sph?id=A6ez41CJTS'
 ---
 
@@ -55,5 +58,5 @@ source_url: 'https://channels.weixin.qq.com/finder-preview/pages/sph?id=A6ez41CJ
 
 ## 相关
 
-- [[00-元宝对话索引]]
-- [[主题/Skill封装与使用]]
+- [[90_来源/元宝对话/元宝对话索引]]
+- [[01_我/领域/学习与能力/Skill封装与使用]]
